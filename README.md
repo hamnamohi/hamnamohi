@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamna Mohiuddin</h1>
 <h3 align="center">Python | HTML | CSS | CHISEL | WordPress | PyGame</h3>
+<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamnamohi&label=Profile%20views&color=0e75b6&style=flat" alt="hamnamohi" /> </p>
 
