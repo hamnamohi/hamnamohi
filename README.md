@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnamohi&" alt="hamnamohi" /></p>
 
-<img src='.github/workflows/thanks.svg'/>
+<img src='hamnamohi/.github/workflows/thanks.svg'/>
