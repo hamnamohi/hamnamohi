@@ -41,6 +41,4 @@
 <img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
 </div>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnamohi&" alt="hamnamohi" /></p>
 <img src='workflows/thanks.svg'/>
