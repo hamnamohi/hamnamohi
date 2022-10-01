@@ -37,8 +37,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align='center'>
-<img src='https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg'/>
-</div>
 
 <img src='workflows/thanks.svg'/>
