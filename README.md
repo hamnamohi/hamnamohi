@@ -17,16 +17,19 @@
    <img src="https://profile-counter.glitch.me/hamnamohi/count.svg" align="center"/> 
  </p></div>
  - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institute of Technology.
- - I love Mandala Art:🎨, coffee:ˏˋ☕ˎˊ .
+ </br>
+ - I love Mandala Art:🎨 .
+ </br>
  - 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.
 
-- 📫 How to reach me **hamnamohi2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamnamohiuddin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamnamohiuddin1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamna-mohiuddin-3b19521b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamna-mohiuddin-3b19521b4" height="30" width="40" /></a>
-<a href="https://instagram.com/hamna_mohiuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamna_mohiuddin" height="30" width="40" /></a>
+  <div>
+ <a href="https://www.linkedin.com/in/hamna-mohiuddin-3b19521b4/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="hamnamohi2003@gmail.com"><img align="left" alt="Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://twitter.com/HamnaMohiuddin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a></div>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
