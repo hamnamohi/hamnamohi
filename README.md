@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hamna Mohiuddin</h1>
-<h3 align="center">Python | HTML | CSS | CHISEL | WordPress | PyGame</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20Hamna%20Mohiuddin%20Here✨&fontSize=30&height=120&width=100%&section=header"/>
+</p></a>
+<div align='center'>
+<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+CHISEL+%7C+HTML+%7C+CSS+%7C+WordPress" alt="Typing SVG" />
+</a></div><br>
+
 <img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
 
 
@@ -10,7 +16,9 @@
    <br>
    <img src="https://profile-counter.glitch.me/hamnamohi/count.svg" align="center"/> 
  </p></div>
-- 🌱 I’m currently learning **FrontEnd Development**
+ - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from Usman Institute of Technology.
+ - I love Mandala Art:🎨, coffee:ˏˋ☕ˎˊ .
+ - 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.
 
 - 📫 How to reach me **hamnamohi2003@gmail.com**
 
@@ -28,6 +36,9 @@
 # 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamnamohi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
