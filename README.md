@@ -6,7 +6,7 @@
 <a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+CHISEL+%7C+HTML+%7C+CSS+%7C+WordPress" alt="Typing SVG" />
 </a></div><br>
 
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+<!-- <img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'> -->
 
 
 
@@ -39,8 +39,8 @@
 # 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a>
+<!-- <a href='https://github.com/samadpls/Programing-Gifs'> -->
+<!-- <img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=100 alt='samadpls/Programming-Gifs'></a> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamnamohi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
