@@ -16,7 +16,7 @@
    <br>
    <img src="https://profile-counter.glitch.me/hamnamohi/count.svg" align="center"/> 
  </p></div>
- - 👷 Currently pursuing BSc in Software Engineering(2021-2025) from NED University.
+ - 👷 Currently pursuing Software Engineering(2021-2025) from NED University.
  </br>
  - I love Mandala Art:🎨 .
  </br>
