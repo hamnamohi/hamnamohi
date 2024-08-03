@@ -1,15 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20Hamna%20Mohiuddin%20Here✨&fontSize=30&height=120&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Hamna%20Mohiuddin%20✨&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
-<div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=Python+%7C+CHISEL+%7C+Scala+%7C+HTML+%7C+CSS+%7C+WordPress" alt="Typing SVG" />
-</a></div><br>
-
-<img align='right' src='https://islamic-qoutes.cyclic.app' height=300 alt='samadpls/islamic-qoutes'> 
 
 
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <div align='left'>
 <p align="left"> 
    Visitor count:
@@ -18,19 +14,19 @@
  </p></div>
  - 👷 Currently pursuing Software Engineering(2021-2025) from NED University.
  </br>
- - I love Mandala Art:🎨 .
+ - Currently exploring Post Quantum Cryptography.
  </br>
- - Currently learning Scala and CHISEL.
+ - Ask me about Python, RISC-V, Scala, CHISEL, AI/ML, Cryptography.
 </br>
  - 🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <div>
  <a href="https://www.linkedin.com/in/hamna-mohiuddin-3b19521b4/" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="hamnamohi2003@gmail.com"><img align="left" alt="Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://twitter.com/HamnaMohiuddin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samadpls" height="30" width="40" /></a></div>
+<a href="https://twitter.com/HamnaMohiuddin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HamnaMohiuddin1" height="30" width="40" /></a></div>
 
 </p>
 
@@ -63,6 +59,25 @@
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+        </a>
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+        </a> 
+        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+        </a>
+   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/REST_API-00A2E8?style=for-the-badge&logo=Rest&logoColor=white" alt="restapi" width="40" height="40"/> 
+        </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+        </a>
+  
 </p>
 
 
@@ -70,21 +85,6 @@
 # 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=100 alt='samadpls/Programming-Gifs'></a> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamnamohi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnamohi&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamnamohi&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align='center'>
-<img src='https://github.com/hamnamohi/hamnamohi/blob/main/workflows/github-user-contribution.svg'/>
-</div>
-
-[![@hamnamohi's Holopin board](https://holopin.me/hamnamohi)](https://holopin.io/@hamnamohi)
-<img src='workflows/thanks.svg'/>
