@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Hamna%20Mohiuddin%20✨&fontSize=30&height=120&width=100%&section=header"/>
 </p></a>
 
-
-
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <div align='left'>
 <p align="left"> 
